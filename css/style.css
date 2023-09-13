@@ -558,9 +558,6 @@ footer{
 
 
 @media screen and (max-width: 791px){
-    .header__background{
-        overflow-x: hidden;
-    }
 
 
     .header {
